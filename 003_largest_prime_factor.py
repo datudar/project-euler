@@ -12,14 +12,14 @@
 # Constraints
 # ===========
 # 1 <= T <= 10
-# 10 <= N <= 10^2
+# 10 <= N <= 10^12
 #
 # Output Format
 # =============
 # For each test case, display the largest prime factor of .
 #
 # Note: This solution receives 80 out of 100 points since it
-# times out on the last test case.
+# times out on one of the test cases.
 
 def prime_factors(n):
     prime_factors = []
