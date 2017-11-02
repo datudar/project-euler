@@ -11,7 +11,7 @@
 # Input Format
 # ============
 # First line contains T that denotes the number of test cases. This is 
-# followed by T lines each containing an integer N.
+# followed by T lines, each containing an integer, N.
 #
 # Constraints
 # ===========
