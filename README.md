@@ -1,4 +1,4 @@
-### <p align="center">Solutions for [HackerRank's implementation](https://www.hackerrank.com/contests/projecteuler/challenges) of [Project Euler](https://projecteuler.net).</p>
+### <p align="center">Solutions for [HackerRank's implementation](https://www.hackerrank.com/contests/projecteuler/challenges) of [Project Euler](https://projecteuler.net)</p>
 
 <p align="center">
 	<img src="Leonhard_Euler.jpg" width="225">
