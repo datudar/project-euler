@@ -1,6 +1,6 @@
 ### Project Euler
 
-![Leonhard Euler](Leonhard_Euler.jpg)
+<img src="Leonhard_Euler.jpg" width="48">
 
 For general information on Project Euler, please visit [https://projecteuler.net](https://projecteuler.net). The solutions in this repository are for [HackerRank's version](https://www.hackerrank.com/contests/projecteuler/challenges) of Project Euler.
 
