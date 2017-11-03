@@ -4,7 +4,7 @@
 	<img src="Leonhard_Euler.jpg" width="225">
 </p>
 
-<p align="center">These are my Python solutions for [HackerRank's implementation](https://www.hackerrank.com/contests/projecteuler/challenges) of [Project Euler](https://projecteuler.net).</p>
+The following Python scripts are my solutions to [HackerRank's implementation](https://www.hackerrank.com/contests/projecteuler/challenges) of [Project Euler](https://projecteuler.net).
 
 ### Solutions
 
