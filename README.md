@@ -1,4 +1,4 @@
-<p><center>Project Euler</center></p>
+<p align="center">Project Euler</p>
 
 <p align="center">
 	<img src="Leonhard_Euler.jpg" width="250">
