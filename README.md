@@ -1,4 +1,4 @@
-<img src="Leonhard_Euler.jpg" width="250" align="middle">
+<img align="middle" src="Leonhard_Euler.jpg" width="250">
 
 #### Solutions for [HackerRank's implementation](https://www.hackerrank.com/contests/projecteuler/challenges) of [Project Euler](https://projecteuler.net).
 
