@@ -4,7 +4,7 @@
 	<img src="Leonhard_Euler.jpg" width="225">
 </p>
 
-Yup, that's him (https://en.wikipedia.org/wiki/Leonhard_Euler) -- the eponymous mathematician of [Project Euler](https://projecteuler.net). Despite his deteriorating eyesight later in life (which may explain his odd sense of style), he made some of the most important contributions to the field of mathematics. 
+Yup, that's [him] (https://en.wikipedia.org/wiki/Leonhard_Euler) -- the eponymous mathematician of [Project Euler](https://projecteuler.net).
 
 Below are Python scripts that I've submitted to [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges), which is  HackerRank's implementation of the project. Stay tuned for more solutions :-)
 
