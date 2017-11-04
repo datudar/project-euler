@@ -4,9 +4,7 @@
 	<img src="Leonhard_Euler.jpg" width="225">
 </p>
 
-Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler) -- the eponymous mathematician of [Project Euler](https://projecteuler.net).
-
-Below are Python scripts that I've submitted to [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges), which is  HackerRank's implementation of the project. Stay tuned for more solutions :-)
+Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdashthe eponymous mathematician of [Project Euler](https://projecteuler.net). Below are Python scripts that I've submitted to [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges), which is  HackerRank's implementation of the project. Stay tuned for more solutions :-)
 
 1. [Multiples of 3 and 5](/solutions/001_multiples_of_3_and_5.py)
 1. [Even Fibonacci Numbers](/solutions/002_even_fibonacci_numbers.py)
