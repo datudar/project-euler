@@ -1,3 +1,7 @@
+# Source
+# ======
+# https://www.hackerrank.com/contests/projecteuler/challenges/euler004
+#
 # Problem
 # ======= 
 # A palindromic number reads the same both ways. The smallest 6 digit 
@@ -26,7 +30,7 @@ def is_palindrome(n):
     
 def get_product(n):    
     for i in range(100,1000):
-        for j in range(110,1000,11):
+        for j in range(110,1000,11): # For speed, since 11 must be a multiple
             if i*j == n:
                 return i*j
     else:
@@ -35,7 +39,7 @@ def get_product(n):
 t = int(input().strip())
 for _ in range(t):
     n = int(input().strip())
-    n=n-1
+    n = n-1 # The palindrome has to be less than N
     while True:
         if is_palindrome(n) == True:
             product = get_product(n)
