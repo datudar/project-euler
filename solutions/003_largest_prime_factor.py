@@ -16,10 +16,7 @@
 #
 # Output Format
 # =============
-# For each test case, display the largest prime factor of .
-#
-# Note: This solution receives 80 out of 100 points since it
-# times out on one of the test cases.
+# For each test case, display the largest prime factor of N.
 
 def prime_factors(n):
     prime_factors = []
@@ -29,10 +26,15 @@ def prime_factors(n):
             prime_factors.append(d)
             n = n / d
         d = d + 1
+        if d**2 > n:
+            if n > 1:
+                prime_factors.append(n)
+            break
     return prime_factors
+
 
 t = int(input())
 
 for _ in range(t):
     n = int(input())
-    print(max(prime_factors(n)))
+    print(int(max(prime_factors(n))))
