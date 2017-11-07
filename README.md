@@ -9,3 +9,4 @@ Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponym
 3. [Largest Prime Factor](/solutions/003_largest_prime_factor.py)
 4. [Largest Palindrome Product](/solutions/004_largest_palindrome_product.py)
 5. [Smallest Multiple](/solutions/005_smallest_multiple.py)
+6. [Sum Square Difference](/solutions/006_sum_square_difference.py)
