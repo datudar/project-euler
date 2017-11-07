@@ -8,3 +8,4 @@ Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponym
 2. [Even Fibonacci Numbers](/solutions/002_even_fibonacci_numbers.py)
 3. [Largest Prime Factor](/solutions/003_largest_prime_factor.py)
 4. [Largest Palindrome Product](/solutions/004_largest_palindrome_product.py)
+5. [Smallest Multiple](/solutions/005_smallest_multiple.py)
