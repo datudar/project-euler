@@ -25,8 +25,12 @@
 # Print the required answer for each test case.
 
 from functools import reduce
-from math import gcd
+
+def greatest_common_factor(a, b):
+    while b:
+        a, b = b, a%b
+    return a
 
 for _ in range(int(input())):
     n = int(input())
-    print(reduce(lambda x, y: x * y // gcd(x, y), range(1, n+1)))
+    print(reduce(lambda x, y: x * y // greatest_common_factor(x, y), range(1, n+1)))
