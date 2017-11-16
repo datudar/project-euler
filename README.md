@@ -11,3 +11,4 @@ Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponym
 5. [Smallest Multiple](/solutions/005_smallest_multiple.py)
 6. [Sum Square Difference](/solutions/006_sum_square_difference.py)
 7. [10001st Prime](/solutions/007_10001st_prime.py)
+8. [Largest Product in a Series](/solutions/008_largest_product_in_a_series.py)
