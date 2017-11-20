@@ -6,19 +6,12 @@ Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponym
 
 | # | Problem | Points | Solution |
 | :---:  | :---  | :---:  | :---  |
-1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
-
-1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
-
-1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
-
-1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
-
-1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
-
-1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
-
-1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
-
-1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
+|1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
+|1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
+|1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
+|1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
+|1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
+|1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
+|1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
+|1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [Solution](/solutions/001_multiples_of_3_and_5.py) |
 
