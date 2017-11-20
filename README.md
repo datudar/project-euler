@@ -4,6 +4,8 @@
 
 Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponymous mathematician of [Project Euler](https://projecteuler.net). Below are Python scripts that I've submitted to [HackerRank's version](https://www.hackerrank.com/contests/projecteuler/challenges) of the project. Stay tuned for more solutions :-)
 
+<center>
+
 | # | Problem | Points | Solution |
 | :---:  | :---  | :---:  | :---:  |
 |1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [code](/solutions/001_multiples_of_3_and_5.py) |
@@ -15,3 +17,4 @@ Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponym
 |7| [10001st Prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007) | 100 | [code](/solutions/007_10001st_prime.py) |
 |8| [Largest Product in a Series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008) | 100 | [code](/solutions/008_largest_product_in_a_series.py) |
 
+</center>
