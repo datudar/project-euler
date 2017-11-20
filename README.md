@@ -4,7 +4,7 @@
 
 Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponymous mathematician of [Project Euler](https://projecteuler.net). Below are Python scripts that I've submitted to [HackerRank's version](https://www.hackerrank.com/contests/projecteuler/challenges) of the project. Stay tuned for more solutions :-)
 
-####| # | Problem | Points | Solution |
+| # | Problem | Points | Solution |
 | :---:  | :---  | :---:  | :---:  |
 |1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | 100 | [code](/solutions/001_multiples_of_3_and_5.py) |
 |2| [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | 100 | [code](/solutions/002_even_fibonacci_numbers.py) |
