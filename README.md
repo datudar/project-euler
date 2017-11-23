@@ -14,3 +14,4 @@ Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponym
 |6| [Sum Square Difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006) | 100 | [code](/solutions/006_sum_square_difference.py) |
 |7| [10001st Prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007) | 100 | [code](/solutions/007_10001st_prime.py) |
 |8| [Largest Product in a Series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008) | 100 | [code](/solutions/008_largest_product_in_a_series.py) |
+|9| [Special Pythagorean](https://www.hackerrank.com/contests/projecteuler/challenges/euler009) | 100 | [code](/solutions/009_special_pythagorean.py) |
