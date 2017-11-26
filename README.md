@@ -2,7 +2,9 @@
 
 <img src="Leonhard_Euler.jpg" width="225">
 
-Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponymous mathematician of [Project Euler](https://projecteuler.net). Below are Python scripts that I've submitted to [HackerRank's version](https://www.hackerrank.com/contests/projecteuler/challenges) of the project. Stay tuned for more solutions :-)
+Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponymous mathematician of [Project Euler](https://projecteuler.net).
+
+Below are Python scripts that I've submitted to [HackerRank's version](https://www.hackerrank.com/contests/projecteuler/challenges) of the project. Stay tuned for more solutions :-)
 
 | # | Problem | Solution |
 | :---:  | :--- | :---:  |
