@@ -23,28 +23,25 @@
 # =============
 # Print the required answer for each test case.
 
-import math
+def is_prime(n):
+    for i in range(2, n):
+        if n%i == 0:
+            return False
+    return True
 
 t = int(input().strip())
 
-primes = [2,3]
-
 for _ in range(t):
-    n = int(input())
-    if len(primes) < n:
-        x = primes[len(primes)-1]
-        while len(primes) < n:
-            x += 2
-            y = math.floor(x**0.5)
-            count = 0
-            for i in primes:
-                if i > y:
-                    count = 0
-                    break
-                if x % i == 0:
-                    count = 1
-                    break
-            if count == 0:
-                primes.append(x)
 
-    print(primes[n-1])
+    primes = []
+    count = 0
+    num = 2
+
+    n = int(input().strip())
+    while count != n:
+        if is_prime(num):
+            primes.append(num)
+            count += 1
+        num += 1
+    
+    print(primes[count-1])
