@@ -9,6 +9,7 @@ Below are Python scripts that I've submitted to [HackerRank's version](https://w
 Stay tuned for more solutions :-)
 
 ### Problems and solutions
+<p align="center">
 
 | # | Problem | Solution |
 | :---:  | :--- | :---:  |
@@ -22,3 +23,5 @@ Stay tuned for more solutions :-)
 |8| [Largest Product in a Series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008) | [code](/solutions/008_largest_product_in_a_series.py) |
 |9| [Special Pythagorean](https://www.hackerrank.com/contests/projecteuler/challenges/euler009) | [code](/solutions/009_special_pythagorean.py) |
 |10| [Summation of Primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010) | [code](/solutions/010_summation_of_primes.py) |
+
+</p>
