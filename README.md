@@ -1,6 +1,6 @@
 ## Project Euler
 
-<img align="right" width="120" height="178"
+<img align="left" width="225"
      title="Leonhard Euler" src="Leonhard_Euler.jpg">
 
 Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponymous mathematician of [Project Euler](https://projecteuler.net).
