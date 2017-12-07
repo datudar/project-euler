@@ -6,6 +6,8 @@ Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler) to the right&mda
 
 Below are Python scripts that I've submitted to [HackerRank's version](https://www.hackerrank.com/contests/projecteuler/challenges) of the project. Stay tuned for more solutions :-)
 
+### Problems and solutions
+
 | # | Problem | Solution |
 | :---:  | :--- | :---:  |
 |1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | [code](/solutions/001_multiples_of_3_and_5.py) |
