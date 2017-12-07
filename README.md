@@ -1,9 +1,9 @@
 ## Project Euler
 
-<img align="left" width="225"
+<img align="right" width="225"
      title="Leonhard Euler" src="Leonhard_Euler.jpg">
 
-Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler)&mdash;the eponymous mathematician of [Project Euler](https://projecteuler.net).
+Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler) to the right&mdash;the eponymous mathematician of [Project Euler](https://projecteuler.net).
 
 Below are Python scripts that I've submitted to [HackerRank's version](https://www.hackerrank.com/contests/projecteuler/challenges) of the project. Stay tuned for more solutions :-)
 
