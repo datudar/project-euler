@@ -21,3 +21,4 @@ Below are Python scripts that I've submitted to HackerRank's [version](https://w
 |9| [Special Pythagorean](https://www.hackerrank.com/contests/projecteuler/challenges/euler009) | [code](/solutions/009_special_pythagorean.py) |
 |10| [Summation of Primes](https://www.hackerrank.com/contests/projecteuler/challenges/euler010) | [code](/solutions/010_summation_of_primes.py) |
 |11| [Largest Product in a Grid](https://www.hackerrank.com/contests/projecteuler/challenges/euler011) | [code](/solutions/011_largest_product_in_a_grid.py) |
+|12| [Highly Divisible Triangular Number](https://www.hackerrank.com/contests/projecteuler/challenges/euler012) | [code](/solutions/012_highly_divisible_triangular_number.py) |
