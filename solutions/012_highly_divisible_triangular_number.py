@@ -45,11 +45,11 @@ def num_of_divisors(n):
             num -= 1
     return num
     
-triangle = [1]
+triangular_number = [1]
 divisor = [1]
 
 for i in range(2, 100000): 
-    triangle.append(int(i * (i + 1) / 2))
+    triangular_number.append(int(i * (i + 1) / 2))
     if i % 2 == 0:
         divisor.append(int(num_of_divisors(i / 2) * num_of_divisors(i + 1)))
     else:
@@ -57,7 +57,7 @@ for i in range(2, 100000):
 
 for t in range(int(input())):
     n = int(input())
-    for i in range(len(triangle)):
+    for i in range(len(triangular_number)):
         if n < divisor[i]:
-            print(triangle[i])
+            print(triangular_number[i])
             break
