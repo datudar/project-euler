@@ -30,7 +30,7 @@
 # Constraints
 # ===========
 # 1 <= T <= 10
-# 1 <= N <= 103
+# 1 <= N <= 10^3
 #
 # Output Format
 # =============
@@ -38,7 +38,7 @@
 
 def num_of_divisors(n):
     num = 0
-    for i in range(1, int(n ** 0.5) + 1):
+    for i in range(1, int(n**0.5) + 1):
         if n % i == 0:
             num += 2
         if i * i == n:
