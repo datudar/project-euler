@@ -4,7 +4,7 @@
 
 Yup, that's [him](https://en.wikipedia.org/wiki/Leonhard_Euler) to the right&mdash;the eponymous mathematician of [Project Euler](https://projecteuler.net).
 
-Below are Python scripts that I've submitted to HackerRank's [version](https://www.hackerrank.com/contests/projecteuler/challenges) of the project. In keeping with spirit of the project, I kindly ask that you do not copy these solutions directly. Instead, you should use them as a reference for your own solutions, and I hope they inspire you to write even more efficient algorithms!
+Below are Python and R scripts that I've submitted to HackerRank's [version](https://www.hackerrank.com/contests/projecteuler/challenges) of the project. In keeping with spirit of the project, I kindly ask that you do not copy these solutions directly. Instead, you should use them as a reference for your own solutions, and I hope they inspire you to write even more efficient algorithms!
 
 ### Problems and Solutions
 
