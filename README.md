@@ -8,7 +8,7 @@ Below are Python scripts that I've submitted to HackerRank's [version](https://w
 
 ### Problems and Solutions
 
-| # | Problem | Python Solution | R Solution |
+| # | Problem | <td colspan=2> Solution
 | :---: | :--- | :---:  | :---: |
 |1| [Multiples of 3 and 5](https://www.hackerrank.com/contests/projecteuler/challenges/euler001) | [Python](/solutions/python/001_multiples_of_3_and_5.py) | [R](/solutions/r/001_multiples_of_3_and_5.R) 
 |2| [Even Fibonacci Numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002) | [Python](/solutions/python/002_even_fibonacci_numbers.py) |
